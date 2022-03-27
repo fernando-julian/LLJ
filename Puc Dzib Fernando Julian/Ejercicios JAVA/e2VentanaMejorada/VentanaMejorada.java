@@ -70,24 +70,24 @@ public class VentanaMejorada extends Frame implements ActionListener {
 		this.add(centro, BorderLayout.NORTH);
 		this.add(resultado, BorderLayout.CENTER);
 		
-		//Diseño del TextArea
+		//Diseï¿½o del TextArea
 		resultado.setBackground(Color.ORANGE);
 		
-		//Diseño del boton igual
+		//Diseï¿½o del boton igual
 		igual.setFocusable(false);
 	    igual.setBackground(Color.DARK_GRAY);//Color de fondo
 	    igual.setForeground(Color.WHITE); //Color de la letra
 	  
-	    //Diseño del boton aceptar 
+	    //Diseï¿½o del boton aceptar 
 	    aceptar.setFocusable(false);
 	    aceptar.setBackground(Color.GREEN); //Color de fondo
 	    aceptar.setForeground(Color.BLACK); //Color de la letra
 	   
-	   //Diseño del boton vaciar 
+	   //Diseï¿½o del boton vaciar 
 	    vaciar.setFocusable(false);
 	    vaciar.setForeground(Color.BLACK);
 	    
-	    //Diseño del textField
+	    //Diseï¿½o del textField
 	    txt.setBackground(Color.BLUE); //Color del fondo
 	    txt.setForeground(Color.WHITE);//Color de la letra
 	    
@@ -95,7 +95,7 @@ public class VentanaMejorada extends Frame implements ActionListener {
 		setSize(600, 400); //Dimensiones del JFrame
         setVisible(true); //Mostrar JFrame
        
-        cerrarVentana(); //Método cerrar ventana
+        cerrarVentana(); //Mï¿½todo cerrar ventana
        
 	}
 	
@@ -103,7 +103,7 @@ public class VentanaMejorada extends Frame implements ActionListener {
 		VentanaMejorada v= new VentanaMejorada();
 	}	
 
-	//Método 
+	//Mï¿½todo 
 	//Cerrar la ventana 
 	public void cerrarVentana() {
 		addWindowListener((WindowListener) new WindowAdapter() {
