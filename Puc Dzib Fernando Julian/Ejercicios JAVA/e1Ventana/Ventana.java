@@ -62,14 +62,14 @@ public class Ventana extends Frame implements ActionListener {
 	    aceptar.setBackground(Color.GREEN); //Color de fondo
 	    aceptar.setForeground(Color.BLACK); //Color de la letra
 	    
-	    //Diseño del textField
+	    //Diseï¿½o del textField
 	    txt.setBackground(Color.BLUE); //Color del fondo
 	    txt.setForeground(Color.WHITE);//Color de la letra
 	    
 		setSize(600, 400); //Dimensiones del JFrame
         setVisible(true); //Mostrar JFrame
        
-        cerrarVentana(); //Método cerrar ventana
+        cerrarVentana(); //Mï¿½todo cerrar ventana
        
 	}
 	
@@ -77,7 +77,7 @@ public class Ventana extends Frame implements ActionListener {
 		Ventana v= new Ventana();
 	}	
 
-	//Método 
+	//Mï¿½todo 
 	//Cerrar la ventana 
 	public void cerrarVentana() {
 		addWindowListener((WindowListener) new WindowAdapter() {
