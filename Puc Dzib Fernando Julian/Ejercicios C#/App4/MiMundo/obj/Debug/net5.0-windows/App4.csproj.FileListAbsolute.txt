@@ -1,0 +1,38 @@
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\bin\Debug\net5.0-windows\App4.exe
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\bin\Debug\net5.0-windows\Recursos\Luchador.jpg
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\bin\Debug\net5.0-windows\App4.deps.json
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\bin\Debug\net5.0-windows\App4.runtimeconfig.json
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\bin\Debug\net5.0-windows\App4.runtimeconfig.dev.json
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\bin\Debug\net5.0-windows\App4.dll
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\bin\Debug\net5.0-windows\ref\App4.dll
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\bin\Debug\net5.0-windows\App4.pdb
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\App4.csproj.AssemblyReference.cache
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\MiMundo.Form1.resources
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\App4.csproj.GenerateResource.cache
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\App4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\App4.AssemblyInfoInputs.cache
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\App4.AssemblyInfo.cs
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\App4.csproj.CoreCompileInputs.cache
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\App4.dll
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\ref\App4.dll
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\App4.pdb
+C:\Users\Julian\OneDrive - Instituto Tecnologico Superior de Calkini\Documentos\C#\e3\MiMundo\obj\Debug\net5.0-windows\App4.genruntimeconfig.cache
+C:\Users\Julian\source\repos\App4\MiMundo\bin\Debug\net5.0-windows\App4.exe
+C:\Users\Julian\source\repos\App4\MiMundo\bin\Debug\net5.0-windows\Recursos\Luchador.jpg
+C:\Users\Julian\source\repos\App4\MiMundo\bin\Debug\net5.0-windows\App4.deps.json
+C:\Users\Julian\source\repos\App4\MiMundo\bin\Debug\net5.0-windows\App4.runtimeconfig.json
+C:\Users\Julian\source\repos\App4\MiMundo\bin\Debug\net5.0-windows\App4.runtimeconfig.dev.json
+C:\Users\Julian\source\repos\App4\MiMundo\bin\Debug\net5.0-windows\App4.dll
+C:\Users\Julian\source\repos\App4\MiMundo\bin\Debug\net5.0-windows\ref\App4.dll
+C:\Users\Julian\source\repos\App4\MiMundo\bin\Debug\net5.0-windows\App4.pdb
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\App4.csproj.AssemblyReference.cache
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\MiMundo.Form1.resources
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\App4.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\App4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\App4.AssemblyInfoInputs.cache
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\App4.AssemblyInfo.cs
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\App4.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\App4.dll
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\ref\App4.dll
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\App4.pdb
+C:\Users\Julian\source\repos\App4\MiMundo\obj\Debug\net5.0-windows\App4.genruntimeconfig.cache
